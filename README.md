@@ -1,3 +1,6 @@
+Desafio Android do Tihasg
+Bem-vindo/a ao desafio de Android do Tihasg.
+
 ## **Design e comportamento:**<br>
 
 LINK DO PROTOTIPO A SEGUIR O DESING = https://www.figma.com/proto/MgLMgPyUmOomGv0qMONQyq/Untitled?node-id=5%3A148&scaling=scale-down&page-id=0%3A1
