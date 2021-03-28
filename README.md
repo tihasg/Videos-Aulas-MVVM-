@@ -5,6 +5,8 @@ Bem-vindo/a ao desafio de Android do Tihasg.
 
 LINK DO PROTOTIPO A SEGUIR O DESING = https://www.figma.com/proto/MgLMgPyUmOomGv0qMONQyq/Untitled?node-id=5%3A148&scaling=scale-down&page-id=0%3A1
 
+LINK PARA ESTUDO PARA FAZER TESTE UNITARIO = https://www.youtube.com/watch?v=lIN4rgeUzQc&ab_channel=DouglasMotta
+
 - O design das telas do aplicativo pode ser encontrado na pasta ___Design___. É importante ressaltar que o design não precisa ser idêntico ao que especificamos, você pode fazer alterações pequenas relacionadas ao estilo dos componentes (campo de busca, cards...), mas sem alterar o conteúdo ou comportamento deles, como descrito a seguir. Lembre-se de que o desafio possui um prazo, então procure balancear a qualidade do código e da UI e o tempo usado. Entender e atingir esse equilíbrio são habilidades importantes que usamos no dia-a-dia da empresa.
 - A primeira tela do aplicativo contém uma toolbar com título, um campo de pesquisa e a listagem de notícias.
     - Título da tela: ___Notícias___
