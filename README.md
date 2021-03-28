@@ -17,8 +17,8 @@ LINK DO PROTOTIPO A SEGUIR O DESING = https://www.figma.com/proto/MgLMgPyUmOomGv
     - Ao apagar todo o conteúdo do campo de pesquisa, devem ser exibidos todos os itens carregados anteriormente.
 - Ao clicar em uma notícia, é apresentado um Dialog com os detalhes e as opções ___Voltar___ e ___Ler artigo___
     - O Dialog contém o título, sumário e imagem da notícia. (`title, summary e imageUrl` respectivamente)
-    - Ao clicar em ___Voltar___ ou ao clicar fora do Dialog, o mesmo é fechado.
-    - Ao clicar em ___Ler artigo___, deve ser aberto o navegador padrão do dispositivo no link contido no campo `url` retornado pela API.
+    - Ao clicar na image de close fechara o popup.
+    - 
 - Fluxos alternativos
     - Caso a API retorne um erro (HTTP 4xx ou 5xx), deve ser exibido um dialog de erro.
         - Título: ___Não foi possível carregar as notícias___
@@ -79,13 +79,8 @@ Se surgir alguma dúvida quanto ao que pode ou não ser usado, não hesite em no
 <br><br>
 ## **Como nos enviar seu desafio pronto**
 - Para participar:
-   - Faça um fork deste repositório e submeta as alterações apenas para a sua cópia. 
-   - O seu README deve ter todas as instruções sobre o que deve ser configurado e como rodar o projeto. 
-   - **O código deve compilar e rodar.** Caso as instruções estejam claras, e o projeto não compile, iremos entrar em contato com você. Caso o README esteja sem qualquer instrução sobre como rodar o projeto e ele não compile, não será possível garantir que analisaremos e testaremos o projeto.
-   - Todo o código deve ser feito em inglês. 
-   - O projeto deve ser desenvolvido obrigatoriamente na IDE Android Studio.
-   - Não faça um PR para este repositório, apenas envie o link para rafael.caetano@jeitto.com.br e/ou fabio.rachid@jeitto.com.br
-
+   - Faça um fork deste repositório e submeta as alterações apenas para a sua cópia.
+  
 O que **esperamos** ver:
 - Java ou Kotlin
 - Projeto organizado com arquitetura
